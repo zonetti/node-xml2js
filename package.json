@@ -70,7 +70,7 @@
     "url": "https://github.com/Leonidas-from-XIV/node-xml2js.git"
   },
   "dependencies": {
-    "sax": "zonetti/sax",
+    "sax": "zonetti/sax-js",
     "xmlbuilder": "^8.2.0"
   },
   "devDependencies": {
